@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tarun Prajapati</h1>
 <h3 align="center">I am Full Stack Developer From India</h3>
 
-- 🔭 I’m currently working on **Builder's Need** - 🌱 I’m currently learning
-**Exprees,Next** - 💬 Ask me about **React, Bootstrap, Tailwind, ASP.NET** - 📫
-How to reach me **tarun.prajapati912@gmail.com** - ⚡ Fun fact **Programmer
-Thought : Code is Running then don't touch it.**
+🔭 I’m currently working on **Builder's Need** 
+🌱 I’m currently learning **Exprees,Next** 
+💬 Ask me about **React, Bootstrap, Tailwind, ASP.NET** - 
+📫How to reach me **tarun.prajapati912@gmail.com** 
+⚡ Fun fact **Programmer Thought : Code is Running then don't touch it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
