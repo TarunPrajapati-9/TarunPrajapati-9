@@ -42,12 +42,13 @@
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
-      src="https://www.svgrepo.com/show/378490/bootstrap-fill.svg"
+      src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg"
       alt="bootstrap"
       width="40"
       height="40"
     />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img
       src="https://www.svgrepo.com/show/353622/c-sharp.svg"
@@ -56,6 +57,7 @@
       height="40"
     />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
@@ -64,6 +66,7 @@
       height="40"
     />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -72,6 +75,7 @@
       height="40"
     />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -80,6 +84,7 @@
       height="40"
     />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://www.svgrepo.com/show/303205/html-5-logo.svg"
@@ -88,6 +93,7 @@
       height="40"
     />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -100,6 +106,7 @@
       height="40"
     />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.svgrepo.com/show/331488/mongodb.svg"
@@ -108,6 +115,7 @@
       height="40"
     />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.svgrepo.com/show/439233/mysql.svg"
@@ -116,6 +124,7 @@
       height="40"
     />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://www.svgrepo.com/show/452075/node-js.svg"
@@ -124,6 +133,7 @@
       height="40"
     />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img
       src="https://www.svgrepo.com/show/354180/php.svg"
@@ -132,6 +142,7 @@
       height="40"
     />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
@@ -140,6 +151,7 @@
       height="40"
     />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://www.svgrepo.com/show/452092/react.svg"
@@ -148,6 +160,7 @@
       height="40"
     />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
@@ -156,6 +169,7 @@
       height="40"
     />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer">
     <img
       src="https://www.svgrepo.com/show/354048/material-ui.svg"
