@@ -1,33 +1,34 @@
 <h1 align="center">Hi 👋, I'm Tarun Prajapati</h1>
 <h3 align="center">I am Full Stack Developer From India</h3>
 
-<p>🔭 I’m currently working on <b>Builder's Need</b> </p>
-<p>🌱 I’m currently learning <b>Exprees.js,Next.js</b> </p>
-<p>💬 Ask me about <b>React, Bootstrap, Tailwind, ASP.NET</b> </p>
-<p>📫 How to reach me <b>tarun.prajapati912@gmail.com</b> </p>
-<p>⚡ Fun fact Programmer Thought : Code is Running then don't touch it. </p>
+<p>🔭 I’m currently working on <b>Builder's Need</b></p>
+<p>🌱 I’m currently learning <b>Exprees.js,Next.js</b></p>
+<p>💬 Ask me about <b>React, Bootstrap, Tailwind, ASP.NET</b></p>
+<p>📫 Contact me at <b>tarun.prajapati912@gmail.com</b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/tarun-prajapati-82686024a" target="blank"
+  <a
+    href="https://www.linkedin.com/in/tarun-prajapati-82686024a"
+    target="_blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://images.app.goo.gl/ruenVpzBxQHNB4bJ6"
       alt="tarun prajapati"
       height="30"
       width="40"
   /></a>
   <a
     href="https://www.facebook.com/tarun.prajapati.73932?mibextid=ZbWKwL"
-    target="blank"
+    target="_blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      src="https://images.app.goo.gl/jZ5StApTckCSH4hr6"
       alt="tarun prajapati"
       height="30"
       width="40"
   /></a>
-  <a href="https://instagram.com/kathiyawadi__09" target="blank"
+  <a href="https://instagram.com/kathiyawadi__09" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
