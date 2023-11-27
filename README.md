@@ -13,7 +13,7 @@
     target="_blank"
     ><img
       align="center"
-      src="https://images.app.goo.gl/ruenVpzBxQHNB4bJ6"
+      src="https://www.svgrepo.com/show/9911/linkedin.svg"
       alt="tarun prajapati"
       height="30"
       width="40"
