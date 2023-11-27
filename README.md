@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a
-    href="https://www.linkedin.com/in/tarun-prajapati-82686024a"
+    <a
+    href="[![LinkedIn](https://www.svgrepo.com/show/9911/linkedin.svg)](https://www.linkedin.com/in/tarun-prajapati-82686024a){:target="_blank" rel="noopener noreferrer"}    "
     target="_blank"
     ><img
       align="center"
@@ -42,7 +42,7 @@
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      src="https://www.svgrepo.com/show/378490/bootstrap-fill.svg"
       alt="bootstrap"
       width="40"
       height="40"
@@ -50,7 +50,7 @@
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+      src="https://www.svgrepo.com/show/353622/c-sharp.svg"
       alt="csharp"
       width="40"
       height="40"
@@ -58,7 +58,7 @@
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
       alt="express"
       width="40"
       height="40"
@@ -82,7 +82,7 @@
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      src="https://www.svgrepo.com/show/303205/html-5-logo.svg"
       alt="html5"
       width="40"
       height="40"
@@ -94,7 +94,7 @@
     rel="noreferrer"
   >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      src="https://www.svgrepo.com/show/353925/javascript.svg"
       alt="javascript"
       width="40"
       height="40"
@@ -102,7 +102,7 @@
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      src="https://www.svgrepo.com/show/331488/mongodb.svg"
       alt="mongodb"
       width="40"
       height="40"
@@ -110,7 +110,7 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      src="https://www.svgrepo.com/show/439233/mysql.svg"
       alt="mysql"
       width="40"
       height="40"
@@ -118,7 +118,7 @@
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://www.svgrepo.com/show/452075/node-js.svg"
       alt="nodejs"
       width="40"
       height="40"
@@ -126,7 +126,7 @@
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+      src="https://www.svgrepo.com/show/354180/php.svg"
       alt="php"
       width="40"
       height="40"
@@ -142,7 +142,7 @@
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      src="https://www.svgrepo.com/show/452092/react.svg"
       alt="react"
       width="40"
       height="40"
@@ -151,6 +151,14 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.svgrepo.com/show/354048/material-ui.svg"
       alt="tailwind"
       width="40"
       height="40"
