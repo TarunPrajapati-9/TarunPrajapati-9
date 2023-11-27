@@ -23,7 +23,7 @@
     target="_blank"
     ><img
       align="center"
-      src="https://images.app.goo.gl/jZ5StApTckCSH4hr6"
+      src="https://www.svgrepo.com/show/475647/facebook-color.svg"
       alt="tarun prajapati"
       height="30"
       width="40"
@@ -31,7 +31,7 @@
   <a href="https://instagram.com/kathiyawadi__09" target="_blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      src="https://www.svgrepo.com/show/452229/instagram-1.svg"
       alt="kathiyawadi__09"
       height="30"
       width="40"
