@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a
-    href="[![LinkedIn](https://www.svgrepo.com/show/9911/linkedin.svg)](https://www.linkedin.com/in/tarun-prajapati-82686024a){:target="_blank" rel="noopener noreferrer"}    "
+  <a
+    href="https://www.linkedin.com/in/tarun-prajapati-82686024a"
     target="_blank"
     ><img
       align="center"
