@@ -40,6 +40,33 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.svgrepo.com/show/452092/react.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.svgrepo.com/show/354048/material-ui.svg"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg"
@@ -147,33 +174,6 @@
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
       alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.svgrepo.com/show/452092/react.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.svgrepo.com/show/354048/material-ui.svg"
-      alt="tailwind"
       width="40"
       height="40"
     />
