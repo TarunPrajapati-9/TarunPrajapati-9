@@ -16,7 +16,7 @@
       alt="tarun prajapati"
       height="30"
       width="40"
-  /></a>
+  />
   <a
     href="https://www.facebook.com/tarun.prajapati.73932?mibextid=ZbWKwL"
     target="_blank"
