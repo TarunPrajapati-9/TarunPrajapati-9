@@ -2,6 +2,9 @@
   a {
     text-decoration: none;
   }
+  h3{
+    background-color: blue;
+  }
 </style>
 
 <h1 align="center">Hi 👋, I'm Tarun Prajapati</h1>
