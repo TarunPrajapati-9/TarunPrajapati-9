@@ -1,3 +1,9 @@
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
+
 <h1 align="center">Hi 👋, I'm Tarun Prajapati</h1>
 <h3 align="center">I am Full Stack Developer From India</h3>
 
@@ -11,7 +17,6 @@
   <a
     href="https://www.linkedin.com/in/tarun-prajapati-82686024a"
     target="_blank"
-    ><img
       align="center"
       src="https://www.svgrepo.com/show/9911/linkedin.svg"
       alt="tarun prajapati"
@@ -195,3 +200,4 @@
     alt="tarunprajapati-9"
   />
 </p>
+
