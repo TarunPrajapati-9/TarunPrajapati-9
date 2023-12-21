@@ -11,6 +11,7 @@
   <a
     href="https://www.linkedin.com/in/tarun-prajapati-82686024a"
     target="_blank"
+    ><img
       align="center"
       src="https://www.svgrepo.com/show/9911/linkedin.svg"
       alt="tarun prajapati"
