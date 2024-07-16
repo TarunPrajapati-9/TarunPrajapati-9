@@ -2,8 +2,7 @@
 <h3 align="center">I am Full Stack Developer From India</h3>
 
 <p>🔭 I’m currently working on <b>Builder's Need</b></p>
-<p>🌱 I’m currently learning <b>Exprees.js,Next.js</b></p>
-<p>💬 Ask me about <b>React, Bootstrap, Tailwind, ASP.NET</b></p>
+<p>💬 Ask me about <b>MERN, UI/UX, CSS</b></p>
 <p>📫 Contact me at <b>tarun.prajapati912@gmail.com</b></p>
 
 <h3 align="left">Connect with me:</h3>
